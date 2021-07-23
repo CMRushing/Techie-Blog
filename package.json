@@ -1,7 +1,7 @@
 {
-    "name": "tech-blog-mvc",
+    "name": "Techie-Blog",
     "version": "1.0.0",
-    "description": "Tech-Blog-MVC",
+    "description": "Techie-Blog",
     "main": "server.js",
     "scripts": {
         "test": "jest",
@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/pat31477/Tech-Blog-MVC.git"
+        "url": "git+https://github.com/CMRushing/Techie-Blog.git"
     },
     "author": "Cameron Rushing",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/pat31477/Tech-Blog-MVC/issues"
+        "url": "https://github.com/CMRushing/Techie-Blog.git/issues"
     },
-    "homepage": "https://github.com/pat31477/Tech-Blog-MVC#readme",
+    "homepage": "https://github.com/CMRushing/Techie-Blog.git#readme",
     "dependencies": {
         "bcrypt": "^5.0.1",
         "bulma": "^0.9.0",
